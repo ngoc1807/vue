@@ -1,0 +1,21 @@
+{
+  "home": {
+    "banner": [
+      {
+        "title": "American Made",
+        "released": "02/07/2017",
+        "category": "Comedy",
+        "duration": 6900,
+        "images": [
+          {
+            "name": "slider1.jpg",
+            "title": "slider1.jpg"
+          }
+        ]
+      },
+
+      {},
+      {}
+    ]
+  }
+}

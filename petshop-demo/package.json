@@ -1,0 +1,35 @@
+{
+  "name": "petshop-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.6.7",
+    "@heroicons/vue": "^1.0.6",
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "pinia": "^2.0.18",
+    "qs": "^6.11.0",
+    "vue": "^3.2.37",
+    "vue-router": "4",
+    "vue3-carousel": "^0.1.46"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.5",
+    "@types/qs": "^6.9.7",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "sass": "^1.54.5",
+    "sass-loader": "^13.0.2",
+    "tailwindcss": "^3.1.8",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7",
+    "vue-tsc": "^0.39.5"
+  }
+}
